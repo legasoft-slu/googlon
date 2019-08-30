@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.credijusto.googlon.YAMLConfig",
+      "sourceType": "com.credijusto.googlon.YAMLConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "test",
+      "type": "com.credijusto.googlon.bean.Test",
+      "description": "The test of YAML config",
+      "sourceType": "com.credijusto.googlon.YAMLConfig"
+    }
+  ],
+  "hints": []
+}
